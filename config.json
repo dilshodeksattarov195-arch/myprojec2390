@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordonnect",
+        "uuid": 18955090,
+        "checksum": "avpsbj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
